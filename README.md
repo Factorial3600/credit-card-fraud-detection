@@ -66,7 +66,6 @@ The objectives of this project are to:
 
 You can read the full analysis report here:
 
-➡️ [View the full report](report.md)
 https://docs.google.com/document/d/1c2IpZAmAPHpSY5HZvXToCRXzdly9gxikl3W8IulUb78/edit?tab=t.0
 
 
