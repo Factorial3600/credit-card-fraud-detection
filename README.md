@@ -62,12 +62,11 @@ The objectives of this project are to:
 
 \- Key Challenge: Severe class imbalance
 
-## 📄 Full Report
+## 📄 Full Analysis Report
 
-You can read the full analysis report here:
+A detailed written report of the analysis, methodology, insights, and recommendations is available here:
 
-https://docs.google.com/document/d/1c2IpZAmAPHpSY5HZvXToCRXzdly9gxikl3W8IulUb78/edit?tab=t.0
-
+➡️ **[Read the full report](https://docs.google.com/document/d/1c2IpZAmAPHpSY5HZvXToCRXzdly9gxikl3W8IulUb78/edit?tab=t.0#heading=h.mzc5rphoxweu)**
 
 
 
